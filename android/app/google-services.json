@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "835620703668",
+    "project_id": "nitcqrcodeapp",
+    "storage_bucket": "nitcqrcodeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835620703668:android:c0bc613b42a1af9c6536e1",
+        "android_client_info": {
+          "package_name": "com.goku.nitc_qr_code_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835620703668-p8sakaiv3fdp8fh70smfs5odtnoa4ilj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAueEQAPmLNt4M4XZRCtEaie8t2dcw5T44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835620703668-p8sakaiv3fdp8fh70smfs5odtnoa4ilj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
